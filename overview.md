@@ -21,3 +21,15 @@ Recent advancements:
     - Due to the decreasing cost, the popularity of personal genomics will keep increasing. Open-source trait-discovery services should be encouraged, preferably locally run. The copious number of companies that offer these services, based on a business model that includes sample processing, is an increasing security risk for people's genetic data.
 
     - ![overview of companies offering trait discovery](https://github.com/mxvp/Thesis-Initiatives/blob/main/personal_genomics_overview.png)
+
+# 4. Assessing the industry impact of bioinformatics-driven AI/ML integration in biotech startups
+
+- GOAL: Quantify the industry-wide impact of integrating Bioinformatics-driven AI and ML in biotech startups located in biotech hubs San Francisco and Boston.
+- Methodologies:
+    - Identify biotech startups involved in genomics, proteomics, drug discovery, or precision medicine.
+    - Interviews and data collection to explore how AI/ML integration impacts their research, development, operational efficiency, market positioning, and competitive advantage.
+    - Evaluate industry impact and comparative analysis
+    - Generate analysis and Recommendations for Bioinformatics-Driven Biotech Startups
+
+- Preparation: Business course in summer (solvay business school, aarhus university,...)
+
