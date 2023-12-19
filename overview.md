@@ -16,7 +16,7 @@ Recent advancements:
 # 3. SOLID technology for genomics
 
 - Additional to popular advances of using the SOLID technology for incorporating medical data, genomics data from various technologies should be added as well, because of following reasons:
-    - Moore's law: DNA sequencing costs continuously decrease, in the near future sequencing will be essential in both general and specialized healthcare. To avoid redundant sequencing runs and variable qualities, genome sequencing results should be saved to a POD and access should be in control of the patient.
+    - Moore's law: DNA sequencing costs continuously decrease, in the near future sequencing will be essential in both general and specialized healthcare. To avoid redundant sequencing runs and variable qualities, genome sequencing results should be saved to a POD and access should be in control of the patient/client.
     - People empowerment, security, decentralization,...
     - Because of the decreasing cost, popularity for personal genomics will keep increasing. Open source trait-discovery services should be encouraged, preferably locally run. The copious number of companies that offer these services, based on a business model that includes sample processing, is an increasing security risk for the people's genetic data.
 
