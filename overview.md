@@ -1,6 +1,6 @@
 # 1. Image classification models - biomedical data
 
-Improve and tailor current state of art convolutional neural networks for image classification (Resnet, Densenet, VGG and Google's latest EfficientNetV2) as support for biomedical decision making. Additionally by combining it with sequencing/methylation data.
+Improve and tailor the current state-of-the-art convolutional neural networks for image classification (ResNet, DenseNet, VGG, and Google's latest EfficientNetV2) as support for biomedical decision-making. Additionally, by combining them with sequencing/methylation data.
 
 Recent advancements:
 - https://www.nature.com/articles/d41586-023-03072-9
@@ -15,9 +15,9 @@ Recent advancements:
 
 # 3. SOLID technology for genomics
 
-- Additional to popular advances of using the SOLID technology for incorporating medical data, genomics data from various technologies should be added as well, because of following reasons:
-    - Moore's law: DNA sequencing costs continuously decrease, in the near future sequencing will be essential in both general and specialized healthcare. To avoid redundant sequencing runs and variable qualities, genome sequencing results should be saved to a POD and access should be in control of the patient/client.
+- In addition to the popular advances of using SOLID technology for incorporating medical data, genomics data from various technologies should be added as well, due to the following reasons:
+    - Moore's Law: DNA sequencing costs continuously decrease; in the near future, sequencing will be essential in both general and specialized healthcare. To avoid redundant sequencing runs and variable qualities, genome sequencing results should be saved to a POD, and access should be in control of the patient/client.
     - People empowerment, security, decentralization,...
-    - Because of the decreasing cost, popularity for personal genomics will keep increasing. Open source trait-discovery services should be encouraged, preferably locally run. The copious number of companies that offer these services, based on a business model that includes sample processing, is an increasing security risk for the people's genetic data.
+    - Due to the decreasing cost, the popularity of personal genomics will keep increasing. Open-source trait-discovery services should be encouraged, preferably locally run. The copious number of companies that offer these services, based on a business model that includes sample processing, is an increasing security risk for people's genetic data.
 
     - ![overview of companies offering trait discovery](https://github.com/mxvp/Thesis-Initiatives/blob/main/personal_genomics_overview.png)
