@@ -15,7 +15,7 @@ Recent coverage:
 
 # 2. Neoantigen Prediction - cancer vaccines
 
-- Continue building my own custom pipeline <a href="https://github.com/mxvp/NeoLizard" >NeoLizard</a>
+- Continue building my own custom pipeline for neoantigen prediction <a href="https://github.com/mxvp/NeoLizard" >NeoLizard</a>
 - Train a custom machine learning model for predicting MHC-binding affinities. Compete against MHCFlurry (open source but underperforming), netMHCpan (closed source, good performance).
 - Continued collaboration with NeoLizard / potential collaboration with MyNeo?
 
