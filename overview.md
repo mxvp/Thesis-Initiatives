@@ -5,9 +5,9 @@ Improve and tailor the current state-of-the-art convolutional neural networks fo
 - Methylation profiling plays an important role in subtyping, most commonly for categorizing tumors, but it can also be utilized for other illnesses, such as Alzheimer's disease.
 - Decision-making in medical imaging is experiencing significant improvements due to machine learning techniques, such as convolutional neural networks. A holistic model that integrates imaging with sequencing/profiling could lead to even more improvements and warrants further investigation.
 
-
-- My comparative analysis of methylation profiling in induced neurons  from Alzheimer's patients: <a href="https://github.com/mxvp/Omics-Analysis-of-Alzheimer-s-Disease/blob/main/paper.pdf" >here</a>
-- My organelle multilabel classifier (work in progress): <a href="https://github.com/mxvp/organelle-image-classification/blob/main/organelle_image_classification.ipynb" >here</a>
+Own projects:
+- Comparative analysis of methylation profiling in induced neurons  from Alzheimer's patients: <a href="https://github.com/mxvp/Omics-Analysis-of-Alzheimer-s-Disease/blob/main/paper.pdf" >here</a>
+- Organelle multilabel classifier (work in progress): <a href="https://github.com/mxvp/organelle-image-classification/blob/main/organelle_image_classification.ipynb" >here</a>
 
 Recent coverage:
 - https://www.nature.com/articles/d41586-023-03072-9
