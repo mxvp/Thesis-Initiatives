@@ -2,15 +2,21 @@
 
 Improve and tailor the current state-of-the-art convolutional neural networks for image classification (ResNet, DenseNet, VGG, and Google's latest EfficientNetV2) as support for biomedical decision-making. Additionally, by combining them with sequencing/methylation data.
 
-Recent advancements:
+- Methylation profiling plays an important role in subtyping, most commonly for categorizing tumors, but it can also be utilized for other illnesses, such as Alzheimer's disease.
+- Decision-making in medical imaging is experiencing significant improvements due to machine learning techniques, such as convolutional neural networks. A holistic model that integrates imaging with sequencing/profiling could lead to even more improvements and warrants further investigation.
+
+
+- My comparative analysis of methylation profiling in induced neurons  from Alzheimer's patients: <a href="https://github.com/mxvp/Omics-Analysis-of-Alzheimer-s-Disease/blob/main/paper.pdf" >here</a>
+- My organelle multilabel classifier (work in progress): <a href="https://github.com/mxvp/organelle-image-classification/blob/main/organelle_image_classification.ipynb" >here</a>
+
+Recent coverage:
 - https://www.nature.com/articles/d41586-023-03072-9
 - https://www.uclh.nhs.uk/news/researchers-applying-ai-make-brain-surgery-safer-and-more-effective
-
 
 # 2. Neoantigen Prediction - cancer vaccines
 
 - Continue building my own custom pipeline <a href="https://github.com/mxvp/NeoLizard" >NeoLizard</a>
-- Train custom machine learning model for predicting MHC-binding sites. Compete against MHCFlurry (open source but underperforming), netMHCpan (closed source, good performance).
+- Train a custom machine learning model for predicting MHC-binding affinities. Compete against MHCFlurry (open source but underperforming), netMHCpan (closed source, good performance).
 - Continued collaboration with NeoLizard / potential collaboration with MyNeo?
 
 # 3. SOLID technology for genomics
@@ -31,5 +37,5 @@ Recent advancements:
     - Evaluate industry impact and comparative analysis
     - Generate analysis and Recommendations for Bioinformatics-Driven Biotech Startups
 
-- Preparation: Business course in summer (solvay business school, aarhus university,...)
+- Preparation: Business course in summer & student consulting club
 
