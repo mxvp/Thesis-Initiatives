@@ -39,3 +39,15 @@ Recent coverage:
 
 - Preparation: Business course in summer & student consulting club
 
+# 5. Drug repurposing for rare diseases
+
+The goal is to illustrate the possibility of repurposing existing drugs for rare diseases, aiming to accelerate the drug development process and reduce redundant costs.
+
+- Identify potential drug candidates for the treatment of rare diseases
+- Develop a framework based on machine learning that predicts drug-disease interactions
+- Incorporate drug libraries, genetic information, and disease pathways
+- Estimate potential economic impact by employing market analysis methods.
+
+Examples:
+- Thalidomide: sedative and anti-nausea medication with severe teratogenic effects in the late 1950 is now used to treat multiple myeloma.
+- Enbrel: arthritis medicine (Pfizer), developed for treating arthritis, has shown potential for repurposing in Alzheimer's Disease.
