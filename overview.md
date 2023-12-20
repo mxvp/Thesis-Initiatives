@@ -1,3 +1,6 @@
+*Thesis ideas for research period Sept 2024 - Jan 2025.*
+
+
 # 1. Image classification models - biomedical data
 
 Improve and tailor the current state-of-the-art convolutional neural networks for image classification (ResNet, DenseNet, VGG, and Google's latest EfficientNetV2) as support for biomedical decision-making. Additionally, by combining them with sequencing/methylation data.
