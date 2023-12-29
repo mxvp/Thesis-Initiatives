@@ -10,7 +10,7 @@ Improve and tailor the current state-of-the-art convolutional neural networks fo
 
 Own projects:
 - Comparative analysis of methylation profiling in induced neurons  from Alzheimer's patients: <a href="https://github.com/mxvp/Omics-Analysis-of-Alzheimer-s-Disease/blob/main/paper.pdf" >here</a>
-- Organelle multilabel classifier (work in progress): <a href="https://github.com/mxvp/organelle-image-classification/blob/main/organelle_image_classification.ipynb" >here</a>
+- Organelle multilabel classifier: <a href="https://github.com/mxvp/organelle-image-classification/blob/main/organelle_image_classification.ipynb" >here</a>
 
 Recent coverage:
 - https://www.nature.com/articles/d41586-023-03072-9
