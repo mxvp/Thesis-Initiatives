@@ -20,7 +20,7 @@ Recent coverage:
 
 - Continue building my own custom pipeline for neoantigen prediction <a href="https://github.com/mxvp/NeoLizard" >NeoLizard</a>
 - Train a custom machine learning model for predicting MHC-binding affinities. Compete against MHCFlurry (open source but underperforming), netMHCpan (closed source, good performance).
-- Continued collaboration with NeoLizard / potential collaboration with MyNeo?
+- Continued collaboration with BioLizard / potential collaboration with MyNeo?
 
 # 3. SOLID technology for genomics
 
